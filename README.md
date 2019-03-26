@@ -1,5 +1,5 @@
 ## Getting Started
-* Download the latest release on Start Bootstrap
+* Download the repository
 
 ## Creator
 Edoardo Di Sabatino - CODEMASTER - Talent Garden Innovation School Project
